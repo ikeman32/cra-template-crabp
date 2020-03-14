@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-name",
+  "version": "1.0.0",
+  "description": "Your description here",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<your github username>/cra-template-name.git"
+  },
+  "author": "Your Name here",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/<your github username>/cra-template-name/issues"
+  },
+  "homepage": "https://github.com/<your github username>/cra-template-name#readme"
+}
